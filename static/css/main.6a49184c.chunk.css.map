@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,sBAAuB,CACvB,eAAgB,CAChB,WAAY,CACZ,YACF,CAEA,KACE,wBACF","file":"main.6a49184c.chunk.css","sourcesContent":[".App {\n  font-family: sans-serif;\n  max-width: 600px;\n  margin: auto;\n  padding: 2rem;\n}\n\nbody {\n  background-color: #efefef;\n}\n"]}
